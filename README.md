@@ -1,1 +1,1 @@
-# Githun-automated-analysis
+# Github-automated-analysis
